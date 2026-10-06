@@ -1,0 +1,4 @@
+interface:
+  display_name: "Validate spreadsheet product"
+  short_description: "Validate spreadsheet product: reliable workflo"
+  default_prompt: "Use $validate-spreadsheet-product to complete this task using verified sources and report the result."

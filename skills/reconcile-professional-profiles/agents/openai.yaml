@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reconcile professional profiles"
+  short_description: "Reconcile professional profiles: reliable work"
+  default_prompt: "Use $reconcile-professional-profiles to complete this task using verified sources and report the result."

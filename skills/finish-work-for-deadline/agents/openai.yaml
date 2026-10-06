@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finish work for a deadline"
+  short_description: "Finish work for a deadline: reliable workflow"
+  default_prompt: "Use $finish-work-for-deadline to complete this task using verified sources and report the result."

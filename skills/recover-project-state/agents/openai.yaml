@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recover project state"
+  short_description: "Recover project state: reliable workflow"
+  default_prompt: "Use $recover-project-state to complete this task using verified sources and report the result."

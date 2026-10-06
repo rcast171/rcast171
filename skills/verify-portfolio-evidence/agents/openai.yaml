@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verify portfolio evidence"
+  short_description: "Verify portfolio evidence: reliable workflow"
+  default_prompt: "Use $verify-portfolio-evidence to complete this task using verified sources and report the result."

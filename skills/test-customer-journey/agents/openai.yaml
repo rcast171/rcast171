@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test customer journey"
+  short_description: "Test customer journey: reliable workflow"
+  default_prompt: "Use $test-customer-journey to complete this task using verified sources and report the result."

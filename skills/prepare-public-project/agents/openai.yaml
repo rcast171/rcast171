@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prepare public project"
+  short_description: "Prepare public project: reliable workflow"
+  default_prompt: "Use $prepare-public-project to complete this task using verified sources and report the result."
